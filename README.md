@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherazjamil" alt="sherazjamil" /></a> </p>
 
+- 🌱 Begineer level experience in **Unity 3D**
+
 - 🔭 I’m currently working on **Flutter with Firebase.**
 
 - 🌱 I’m currently learning **Flutter and Firebase.**
 
-- 👨‍💻 All of my projects are available at [SherazJamil](SherazJamil)
+- 👨‍💻 All of my projects will soon available at [SherazJamil](SherazJamil)
 
-- 💬 Ask me about **Flutter and Unity 3d.**
+- 💬 Ask me about **Flutter front-end.**
 
 - ⚡ Fun fact **Watching Movies, Playing Cricket, Playing computer video games**
 
