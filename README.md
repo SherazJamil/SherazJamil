@@ -1,5 +1,5 @@
                                                       Hi 👋, I'm Muhammad Sheraz Jamil
-<h3 align="center">A passionate "Flutter" developer and Game developer in "Unity 3d"</h3>
+<h3 align="center">A passionate "Flutter" developer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherazjamil&label=Profile%20views&color=0e75b6&style=flat" alt="sherazjamil" /> </p>
 
