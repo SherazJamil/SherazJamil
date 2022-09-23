@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am Muhammad Sheraz Jamil</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <img align="right" alt="Mobile App Developer" width="400" src="https://www.1datagroup.com/wp-content/uploads/2020/12/flutter-1.jpg">
-# 💫 About Me:
+ <h2>💫 About Me:</h2><br>
 🌱 Begineer level experience in Unity 3D<br><br>🔭 I’m currently working on Flutter with Firebase and Figma.<br><br>🌱 I’m currently learning Flutter ,Firebase and Figma.<br><br>👨‍💻 All of my projects will soon available at SherazJamil<br><br>💬 Ask me about Flutter, Firebase and Figma.<br><br>⚡ Fun fact Watching Movies, Playing Cricket and Football, Playing computer video games<br>How to reach me **sherazjamil463@gmail.com**
 
 
