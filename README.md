@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/SherazJamil/SherazJamil/blob/main/Muhammad%20Sheraz%20Jamil%20(1).png)
+![MasterHead](https://github.com/SherazJamil/SherazJamil/blob/main/Sheraz%20Jamil%20(LinkedIn).png)
 <h1 align="center">Hi 👋, I am Muhammad Sheraz Jamil</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <img align="right" alt="Mobile App Developer" width="400" src="https://www.1datagroup.com/wp-content/uploads/2020/12/flutter-1.jpg">
